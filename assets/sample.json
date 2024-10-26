@@ -1,0 +1,344 @@
+{
+  "entity": {
+    "PlayerDetail": [
+
+      {
+        "gameDate": "2024-10-08",
+        "gameId": "GOLFWC2410088f00ac14",
+        "handycap": 0,
+        "handycaptype": "GOLD",
+        "memberCode": "",
+        "memberId": "JGGAME240608a5271f29",
+        "memberName": "Ilyong Hwang - ( M )",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "memberType": "M",
+        "scorecardId": "GOLFSC2410086608318d",
+        "teamCode": "20241008TER40038"
+      },
+      {
+        "gameDate": "2024-10-08",
+        "gameId": "GOLFWC2410088f00ac14",
+        "handycap": 0,
+        "handycaptype": "RED",
+        "memberCode": "",
+        "memberId": "JGGAME24060887e5be48",
+        "memberName": "Young Ju Seo - ( M )",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "memberType": "M",
+        "scorecardId": "GOLFSC2410082b3a846a",
+        "teamCode": "20241008TER40038"
+      }
+    ],
+    "scoreCardDetail": [
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "RED",
+        "holeno": 1,
+        "indexnumber": 17,
+        "memberId": "JGGAME24060887e5be48",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 4,
+        "score": 30,
+        "scorecardId": "GOLFSC2410082b3a846a",
+        "teestartname": "TER4",
+        "timetaken": "13"
+      },
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "GOLD",
+        "holeno": 1,
+        "indexnumber": 17,
+        "memberId": "JGGAME240608a5271f29",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 4,
+        "score": 20,
+        "scorecardId": "GOLFSC2410086608318d",
+        "teestartname": "TER4",
+        "timetaken": "13"
+      },
+
+
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "RED",
+        "holeno": 2,
+        "indexnumber": 15,
+        "memberId": "JGGAME24060887e5be48",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 3,
+        "score": 32,
+        "scorecardId": "GOLFSC2410082b3a846a",
+        "teestartname": "TER4",
+        "timetaken": "12"
+      },
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "RED",
+        "holeno": 3,
+        "indexnumber": 9,
+        "memberId": "JGGAME24060887e5be48",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 5,
+        "score": 28,
+        "scorecardId": "GOLFSC2410082b3a846a",
+        "teestartname": "TER4",
+        "timetaken": "11"
+      },
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "RED",
+        "holeno": 4,
+        "indexnumber": 13,
+        "memberId": "JGGAME24060887e5be48",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 4,
+        "score": 34,
+        "scorecardId": "GOLFSC2410082b3a846a",
+        "teestartname": "TER4",
+        "timetaken": "15"
+      },
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "RED",
+        "holeno": 5,
+        "indexnumber": 1,
+        "memberId": "JGGAME24060887e5be48",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 3,
+        "score": 29,
+        "scorecardId": "GOLFSC2410082b3a846a",
+        "teestartname": "TER4",
+        "timetaken": "14"
+      },
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "RED",
+        "holeno": 6,
+        "indexnumber": 10,
+        "memberId": "JGGAME24060887e5be48",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 5,
+        "score": 33,
+        "scorecardId": "GOLFSC2410082b3a846a",
+        "teestartname": "TER4",
+        "timetaken": "16"
+      },
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "RED",
+        "holeno": 7,
+        "indexnumber": 3,
+        "memberId": "JGGAME24060887e5be48",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 4,
+        "score": 31,
+        "scorecardId": "GOLFSC2410082b3a846a",
+        "teestartname": "TER4",
+        "timetaken": "12"
+      },
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "RED",
+        "holeno": 8,
+        "indexnumber": 8,
+        "memberId": "JGGAME24060887e5be48",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 3,
+        "score": 25,
+        "scorecardId": "GOLFSC2410082b3a846a",
+        "teestartname": "TER4",
+        "timetaken": "10"
+      },
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "RED",
+        "holeno": 9,
+        "indexnumber": 2,
+        "memberId": "JGGAME24060887e5be48",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 5,
+        "score": 27,
+        "scorecardId": "GOLFSC2410082b3a846a",
+        "teestartname": "TER4",
+        "timetaken": "11"
+      },
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "RED",
+        "holeno": 10,
+        "indexnumber": 14,
+        "memberId": "JGGAME24060887e5be48",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 4,
+        "score": 29,
+        "scorecardId": "GOLFSC2410082b3a846a",
+        "teestartname": "TER4",
+        "timetaken": "15"
+      },
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "RED",
+        "holeno": 11,
+        "indexnumber": 12,
+        "memberId": "JGGAME24060887e5be48",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 3,
+        "score": 35,
+        "scorecardId": "GOLFSC2410082b3a846a",
+        "teestartname": "TER4",
+        "timetaken": "9"
+      },
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "RED",
+        "holeno": 12,
+        "indexnumber": 6,
+        "memberId": "JGGAME24060887e5be48",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 5,
+        "score": 30,
+        "scorecardId": "GOLFSC2410082b3a846a",
+        "teestartname": "TER4",
+        "timetaken": "13"
+      },
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "RED",
+        "holeno": 13,
+        "indexnumber": 4,
+        "memberId": "JGGAME24060887e5be48",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 4,
+        "score": 31,
+        "scorecardId": "GOLFSC2410082b3a846a",
+        "teestartname": "TER4",
+        "timetaken": "11"
+      },
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "RED",
+        "holeno": 14,
+        "indexnumber": 18,
+        "memberId": "JGGAME24060887e5be48",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 3,
+        "score": 26,
+        "scorecardId": "GOLFSC2410082b3a846a",
+        "teestartname": "TER4",
+        "timetaken": "10"
+      },
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "RED",
+        "holeno": 15,
+        "indexnumber": 7,
+        "memberId": "JGGAME24060887e5be48",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 5,
+        "score": 28,
+        "scorecardId": "GOLFSC2410082b3a846a",
+        "teestartname": "TER4",
+        "timetaken": "12"
+      },
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "RED",
+        "holeno": 16,
+        "indexnumber": 5,
+        "memberId": "JGGAME24060887e5be48",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 4,
+        "score": 33,
+        "scorecardId": "GOLFSC2410082b3a846a",
+        "teestartname": "TER4",
+        "timetaken": "14"
+      },
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "RED",
+        "holeno": 17,
+        "indexnumber": 11,
+        "memberId": "JGGAME24060887e5be48",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 3,
+        "score": 24,
+        "scorecardId": "GOLFSC2410082b3a846a",
+        "teestartname": "TER4",
+        "timetaken": "9"
+      },
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "RED",
+        "holeno": 18,
+        "indexnumber": 16,
+        "memberId": "JGGAME24060887e5be48",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 5,
+        "score": 29,
+        "scorecardId": "GOLFSC2410082b3a846a",
+        "teestartname": "TER4",
+        "timetaken": "15"
+      },
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "GOLD",
+        "holeno": 2,
+        "indexnumber": 3,
+        "memberId": "JGGAME240608a5271f29",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 4,
+        "score": 32,
+        "scorecardId": "GOLFSC2410086608318d",
+        "teestartname": "TER4",
+        "timetaken": "15"
+      },
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "GOLD",
+        "holeno": 3,
+        "indexnumber": 3,
+        "memberId": "JGGAME240608a5271f29",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 4,
+        "score": 100,
+        "scorecardId": "GOLFSC2410086608318d",
+        "teestartname": "TER4",
+        "timetaken": "15"
+      },
+      {
+        "gamedate": "2024-10-08",
+        "handycaptype": "RED",
+        "holeno": 2,
+        "indexnumber": 3,
+        "memberId": "JGGAME24060887e5be48",
+        "membershipId": "JGGAMS240608c13f4fa2",
+        "par": 4,
+        "score": 66,
+        "scorecardId": "GOLFSC2410082b3a846a",
+        "teestartname": "TER4",
+        "timetaken": "15"
+      }
+    ],
+
+
+    "slopeRatingAndSSS": [
+      {
+        "handicaptype": "BLUE",
+        "sloperating": 127,
+        "sss": 71
+      },
+      {
+        "handicaptype": "GOLD",
+        "sloperating": 131,
+        "sss": 72.8
+      },
+      {
+        "handicaptype": "RED",
+        "sloperating": 132,
+        "sss": 73.2
+      }
+    ]
+  },
+  "message": "Successfully",
+  "status": 200
+}
