@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
     return BlocProvider(
       create: (context) => GolfBloc()..add(const LoadGolfData()), // Initialize the GolfBloc and trigger the initial event
       child: MaterialApp(
-        title: 'Golf Score App',
+        title: 'Golf Score App - Github(abhishek golf)',
         theme: ThemeData(
           primarySwatch: Colors.green,
         ),
